@@ -8,8 +8,8 @@ dsn_database <- "bludb"
 dsn_hostname <- "1bbf73c5-d84a-4bb0-85b9-ab1a4348f4a4.c3n41cmd0nqnrk39u98g.databases.appdomain.cloud"
 dsn_port <- "32286"
 dsn_protocol <- "TCPIP"
-dsn_uid <- "qxp06012"
-dsn_pwd <- "G9WxsmiiUz2YSsZJ"
+dsn_uid <- "xxxxxxxx"
+dsn_pwd <- "xxxxxxxx"
 dsn_security <- "ssl"
 
 ## Create a database connection
